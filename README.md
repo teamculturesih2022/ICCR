@@ -1,17 +1,70 @@
-Problem Statment ID :
-RK796
+# Getting Started with Create React App
 
-Problem Statment Title : 
-Online monitoring and evaluation system for ICCR and RO's.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Problem Statment Description :
-ICCR would like to monitor all its Regional Offices in India on real-time basis for all the activities they do. This will help ICCR to implement its activities effectively and thus, evaluate their performances in real-time. ICCR maintains 18 Regional Offices (ROs) across India. These Regional Offices have been established to look after the interest of foreign students studying in these States. At any given point of time there are more than 5000 foreign students on the roll of ICCR admitted in various universities/colleges across India. The Regional Office also coordinates the ICCR’s activities in its area with regard to International Students Welfare, Cultural Performances by visiting foreign delegations, Outgoing Cultural Delegations from the region, Distinguished Visitors, Exhibitions, Seminars etc. Every month, Horizon Series/Kala Vishwa Programmes are organized for the local as well as ICCR empanelled artists. ROs coordinate closely with local cultural and educational organizations and the State Government for carrying out ICCR’s mandate of activities. Number of staff in each RO varies between 3 to 10 depending on number of Students and work in a particular Regional Office. Approximately Rs. 200 crore are spent annually by ICCR to administer scholarship programmes in addition to Establishment expenditure. Regional Office wise manpower strength/Number of students is as under (attached file)
+## Available Scripts
 
-Team Member :
+In the project directory, you can run:
 
-Anujkumar Yadav (Team Leader, Backend Developer)
-Prem Mungle (Frontend Developer)
-Harsh Kushwaha (Frontend Developer)
-Aditya Jha (Backend Developer)
-Neha Chopade (UI-UX Developer)
-Vaishnavi Jayade (UI-UX Developer)
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
